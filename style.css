@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    display: block;
+    background-color: #eaeaea;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    margin: 100px;
+    width: 1230px;
+}
+
+.main {
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 800px;
+}
+
+.banner {
+    display: block;
+    background-image: url(./images/fon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #494949;
+    padding-top: 100px;
+    padding-bottom: 0;  
+    height: 330px;
+}
+
+
+.foto {
+    display: block;
+    position: absolute;
+    right: 170px;
+    top: 170px;
+    max-height: 280px;
+    max-width: 300px;
+}
+
+.name {
+    display: block;
+    position: absolute;
+    font-size: 50px;
+    top: 105px;
+    left: 190px;    
+}
+
+.stack {
+    display: block;
+    position: relative;
+    font-size: 80px;
+    font-weight: bold;
+    top: -80px;
+    margin-left: 70px;
+}
+
+.developer {
+    display: block;
+    position: relative;
+    font-size: 80px;
+    font-weight: bold;
+    top: -170px;
+    margin-left: 150px;
+    
+}
+
+.studying {
+    display: block;
+    position: relative;
+    font-size: 30px;
+    top: -250px;
+    margin-left: 170px;
+    
+}
+
+.languages {
+    display: block;
+    position: relative;
+    font-size: 30px;
+    font-weight: bold;
+    top: -280px;
+    margin-left: 80px;
+}
+
+.h2 {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    font-size: 40px;
+    color: #494949;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #cfdbec;
+    margin-bottom: 5px;
+    margin: 0;
+    padding: 16px 0;
+    max-width: 190px;
+    text-align: center;
+    top: 13px;
+}
+
+.text {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    top: 5px;
+}
+
+.course_1 {
+    display: block;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    font-size: 40px;
+    color: #494949;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #cfdbec;   
+    padding: 16px 0;
+    max-width: 190px;
+    text-align: center;
+    top: -8px;
+}
+
+.text_1 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    font-weight: 700;
+    top: -18px;
+}
+
+.text_2 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    top: -130px;
+    margin-left: 140px;
+}
+
+.text_3 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    font-weight: 700;
+    top: -138px;
+}
+
+.text_4 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    top: -250px;
+    margin-left: 140px;
+}
+
+.text_5 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    font-weight: 700;
+    top: -228px;
+}
+
+.text_6 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    top: -340px;
+    margin-left: 140px;
+}
+
+.work {
+    display: block;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    font-size: 40px;
+    color: #494949;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #cfdbec;
+    margin-bottom: 5px;
+    padding: 16px 0;
+    max-width: 290px;
+    text-align: center;
+    margin-left: 560px;
+    top: -865px;
+}
+
+.text_7 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    margin-left: 560px;
+    top: -872px;
+}
+
+.language {
+    display: block;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    font-size: 40px;
+    color: #494949;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #cfdbec;
+    margin-bottom: 5px;
+    padding: 16px 0;
+    max-width: 290px;
+    text-align: center;
+    margin-left: 560px;
+    top: -880px;
+}
+
+.text_8 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    margin-left: 560px;
+    top: -893px;
+}
+
+.Contacts {
+    display: block;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    font-size: 40px;
+    color: #494949;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #cfdbec;
+    margin-bottom: 5px;
+    padding: 16px 0;
+    max-width: 290px;
+    text-align: center;
+    margin-left: 560px;
+    top: -900px;
+}
+
+.text_9 {
+    display: block;
+    position: relative;
+    font-size: 25px;
+    margin-left: 560px;
+    top: -910px;
+}
+
+html,
+body {
+    display: block;
+    height: 100%;
+}
+
+.footer {
+    display: block;
+    font-size: 15px;
+    color: #494949;
+    background-color: #cfdbec;
+    padding: 16px 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
